@@ -1,2 +1,2 @@
 # linear_regression
-LAB03 TRÍ TUỆ NHÂN TẠO: LINEAR REGRESSION
+LAB03 TRÍ TUỆ NHÂN TẠO hcmus: LINEAR REGRESSION
